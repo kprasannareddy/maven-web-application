@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.154.84.248:9980/mithuntechnologies/repository/facebook-snapshot/</url>
+	      <url>http://107.22.43.162:8081/repository/facebook-dev-kp-snapchat/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
